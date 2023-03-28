@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-size: 30px;
+    color: aqua;
+}
+h2{
+    font-size: 40px;
+    color: blue;
+}
+h2{
+    color: bisque;
+}
+.big{
+    color: hotpink;
+    font-size: 65px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.big.uppercase{
+    color: pink;
+}
+span{
+    color: darkcyan;
+}
